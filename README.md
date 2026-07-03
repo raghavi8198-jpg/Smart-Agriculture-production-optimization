@@ -377,6 +377,26 @@ Recommended Crop
 
 ---
 
+## 🎥 Project Demonstration
+
+Watch the complete project demonstration video to understand the workflow, features, and functionality of the OptiCrop application.
+
+### 📹 Demo Video
+
+**Google Drive:**  
+https://drive.google.com/file/d/1YuT8J47KN2BvfcOwPEuwp6kK8PoRj4PO/view?usp=sharing
+
+> The demonstration includes:
+> - Project Introduction
+> - Home Page Overview
+> - About Page
+> - Crop Recommendation Module
+> - User Input Process
+> - Machine Learning Prediction
+> - Recommendation Result
+> - Project Workflow
+> - Features and Future Enhancements
+
 # Conclusion
 
 OptiCrop demonstrates how Artificial Intelligence and Machine Learning can transform traditional farming into a smart, data-driven decision-making process. By analyzing soil nutrients and environmental conditions, the system accurately recommends the most suitable crop for cultivation, helping farmers improve productivity, reduce crop failure, and adopt sustainable agricultural practices. The project provides a scalable foundation for future enhancements such as weather forecasting, fertilizer recommendation, disease detection, and precision farming technologies.
