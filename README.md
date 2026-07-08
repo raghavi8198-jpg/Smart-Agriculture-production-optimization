@@ -17,14 +17,14 @@
 
 ## 📌 Roles & Responsibilities
 
-### 👨‍💼 Team Leader & Backend Developer
+### 👨‍💼Machine Learning Engineer
 **Shaik Mohammed Fawaz (23HM1A3348)**
 - Managed project planning and coordination.
 - Developed the Flask backend application.
 - Integrated the Machine Learning model with the web application.
 - Managed GitHub repository, deployment and final integration.
 
-### 🤖 Machine Learning Engineer
+### 🤖Team Leader & Backend Developer
 **Chintha Raghavi Reddy (23HM1A3308)**
 - Collected and prepared the crop recommendation dataset.
 - Performed data preprocessing and feature scaling.
