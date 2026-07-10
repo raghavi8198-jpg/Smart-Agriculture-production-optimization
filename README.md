@@ -7,8 +7,8 @@
 
 | S.No | Roll Number | Team Member | Project Role | Responsibilities |
 |------|-------------|-------------|--------------|------------------|
-| 1 | 23HM1A3308 | Chintha Raghavi Reddy | Machine Learning Engineer | Dataset collection, data preprocessing, feature engineering, model training and evaluation. |
-| 2 | 23HM1A3348 | Shaik Mohammed Fawaz | Team Leader & Backend Developer | Project planning, Flask backend development, ML model integration, GitHub repository management and deployment. |
+| 1 | 23HM1A3308 | Chintha Raghavi Reddy | Team Leader & Backend Developer | Dataset collection, data preprocessing, feature engineering, model training and evaluation. |
+| 2 | 23HM1A3348 | Shaik Mohammed Fawaz | Machine Learning Engineer| Project planning, Flask backend development, ML model integration, GitHub repository management and deployment. |
 | 3 | 23HM1A3327 | Susrutha Maddi Reddy | Frontend Developer | Designed responsive user interface using HTML, CSS, JavaScript and Bootstrap, integrated frontend with backend. |
 | 4 | 23HM1A3326 | Vamsi Krishna | Data Analyst & Testing Engineer | Dataset analysis, model testing, validation, debugging and performance evaluation. |
 | 5 | 23HM1A3345 | S. Naseer Basha | Documentation & Research Engineer | Prepared project documentation, README, diagrams, research analysis and presentation materials. |
